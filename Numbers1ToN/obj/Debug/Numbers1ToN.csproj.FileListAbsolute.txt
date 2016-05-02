@@ -1,0 +1,6 @@
+D:\Telerik\Homework\CikliPractice\Numbers1ToN\bin\Debug\Numbers1ToN.exe.config
+D:\Telerik\Homework\CikliPractice\Numbers1ToN\bin\Debug\Numbers1ToN.exe
+D:\Telerik\Homework\CikliPractice\Numbers1ToN\bin\Debug\Numbers1ToN.pdb
+D:\Telerik\Homework\CikliPractice\Numbers1ToN\obj\Debug\Numbers1ToN.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\CikliPractice\Numbers1ToN\obj\Debug\Numbers1ToN.exe
+D:\Telerik\Homework\CikliPractice\Numbers1ToN\obj\Debug\Numbers1ToN.pdb

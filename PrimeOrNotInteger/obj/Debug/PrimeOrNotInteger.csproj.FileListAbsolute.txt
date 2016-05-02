@@ -1,0 +1,6 @@
+D:\Telerik\Homework\CikliPractice\PrimeOrNotInteger\bin\Debug\PrimeOrNotInteger.exe.config
+D:\Telerik\Homework\CikliPractice\PrimeOrNotInteger\bin\Debug\PrimeOrNotInteger.exe
+D:\Telerik\Homework\CikliPractice\PrimeOrNotInteger\bin\Debug\PrimeOrNotInteger.pdb
+D:\Telerik\Homework\CikliPractice\PrimeOrNotInteger\obj\Debug\PrimeOrNotInteger.exe
+D:\Telerik\Homework\CikliPractice\PrimeOrNotInteger\obj\Debug\PrimeOrNotInteger.pdb
+D:\Telerik\Homework\CikliPractice\PrimeOrNotInteger\obj\Debug\PrimeOrNotInteger.csprojResolveAssemblyReference.cache

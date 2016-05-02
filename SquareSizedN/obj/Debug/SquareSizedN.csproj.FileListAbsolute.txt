@@ -1,0 +1,6 @@
+D:\Telerik\Homework\CikliPractice\SquareSizedN\bin\Debug\SquareSizedN.exe.config
+D:\Telerik\Homework\CikliPractice\SquareSizedN\bin\Debug\SquareSizedN.exe
+D:\Telerik\Homework\CikliPractice\SquareSizedN\bin\Debug\SquareSizedN.pdb
+D:\Telerik\Homework\CikliPractice\SquareSizedN\obj\Debug\SquareSizedN.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\CikliPractice\SquareSizedN\obj\Debug\SquareSizedN.exe
+D:\Telerik\Homework\CikliPractice\SquareSizedN\obj\Debug\SquareSizedN.pdb

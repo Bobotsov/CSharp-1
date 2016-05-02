@@ -1,0 +1,6 @@
+D:\Telerik\Homework\CikliPractice\PrintNumberTriangle\bin\Debug\PrintNumberTriangle.exe.config
+D:\Telerik\Homework\CikliPractice\PrintNumberTriangle\bin\Debug\PrintNumberTriangle.exe
+D:\Telerik\Homework\CikliPractice\PrintNumberTriangle\bin\Debug\PrintNumberTriangle.pdb
+D:\Telerik\Homework\CikliPractice\PrintNumberTriangle\obj\Debug\PrintNumberTriangle.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\CikliPractice\PrintNumberTriangle\obj\Debug\PrintNumberTriangle.exe
+D:\Telerik\Homework\CikliPractice\PrintNumberTriangle\obj\Debug\PrintNumberTriangle.pdb

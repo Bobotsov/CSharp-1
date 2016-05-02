@@ -1,0 +1,6 @@
+D:\Telerik\Homework\CikliPractice\FactorialFromNtoM\bin\Debug\FactorialFromNtoM.exe.config
+D:\Telerik\Homework\CikliPractice\FactorialFromNtoM\bin\Debug\FactorialFromNtoM.exe
+D:\Telerik\Homework\CikliPractice\FactorialFromNtoM\bin\Debug\FactorialFromNtoM.pdb
+D:\Telerik\Homework\CikliPractice\FactorialFromNtoM\obj\Debug\FactorialFromNtoM.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\CikliPractice\FactorialFromNtoM\obj\Debug\FactorialFromNtoM.exe
+D:\Telerik\Homework\CikliPractice\FactorialFromNtoM\obj\Debug\FactorialFromNtoM.pdb

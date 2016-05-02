@@ -1,0 +1,6 @@
+D:\Telerik\Homework\CikliPractice\ArraysPractice\bin\Debug\ArraysPractice.exe.config
+D:\Telerik\Homework\CikliPractice\ArraysPractice\bin\Debug\ArraysPractice.exe
+D:\Telerik\Homework\CikliPractice\ArraysPractice\bin\Debug\ArraysPractice.pdb
+D:\Telerik\Homework\CikliPractice\ArraysPractice\obj\Debug\ArraysPractice.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\CikliPractice\ArraysPractice\obj\Debug\ArraysPractice.exe
+D:\Telerik\Homework\CikliPractice\ArraysPractice\obj\Debug\ArraysPractice.pdb

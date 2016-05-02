@@ -1,0 +1,6 @@
+D:\Telerik\Homework\CikliPractice\Nfactorial\bin\Debug\Nfactorial.exe.config
+D:\Telerik\Homework\CikliPractice\Nfactorial\bin\Debug\Nfactorial.exe
+D:\Telerik\Homework\CikliPractice\Nfactorial\bin\Debug\Nfactorial.pdb
+D:\Telerik\Homework\CikliPractice\Nfactorial\obj\Debug\Nfactorial.exe
+D:\Telerik\Homework\CikliPractice\Nfactorial\obj\Debug\Nfactorial.pdb
+D:\Telerik\Homework\CikliPractice\Nfactorial\obj\Debug\Nfactorial.csprojResolveAssemblyReference.cache
