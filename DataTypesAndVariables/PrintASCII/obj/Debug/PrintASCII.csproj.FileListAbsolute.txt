@@ -1,0 +1,5 @@
+D:\Telerik\Homework\DataTypesAndVariables\PrintASCII\bin\Debug\PrintASCII.exe.config
+D:\Telerik\Homework\DataTypesAndVariables\PrintASCII\bin\Debug\PrintASCII.exe
+D:\Telerik\Homework\DataTypesAndVariables\PrintASCII\bin\Debug\PrintASCII.pdb
+D:\Telerik\Homework\DataTypesAndVariables\PrintASCII\obj\Debug\PrintASCII.exe
+D:\Telerik\Homework\DataTypesAndVariables\PrintASCII\obj\Debug\PrintASCII.pdb

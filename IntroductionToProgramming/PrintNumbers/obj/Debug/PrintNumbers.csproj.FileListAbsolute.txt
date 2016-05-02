@@ -1,0 +1,5 @@
+D:\Telerik\Homework\IntroductionToProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+D:\Telerik\Homework\IntroductionToProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe
+D:\Telerik\Homework\IntroductionToProgramming\PrintNumbers\bin\Debug\PrintNumbers.pdb
+D:\Telerik\Homework\IntroductionToProgramming\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\Telerik\Homework\IntroductionToProgramming\PrintNumbers\obj\Debug\PrintNumbers.pdb

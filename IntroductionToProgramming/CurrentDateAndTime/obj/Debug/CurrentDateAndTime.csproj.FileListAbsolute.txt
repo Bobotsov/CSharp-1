@@ -1,0 +1,6 @@
+D:\Telerik\Homework\IntroductionToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+D:\Telerik\Homework\IntroductionToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+D:\Telerik\Homework\IntroductionToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+D:\Telerik\Homework\IntroductionToProgramming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+D:\Telerik\Homework\IntroductionToProgramming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb
+D:\Telerik\Homework\IntroductionToProgramming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Telerik\Homework\IntroductionToProgramming\PrintName\bin\Debug\PrintName.exe.config
+D:\Telerik\Homework\IntroductionToProgramming\PrintName\bin\Debug\PrintName.exe
+D:\Telerik\Homework\IntroductionToProgramming\PrintName\bin\Debug\PrintName.pdb
+D:\Telerik\Homework\IntroductionToProgramming\PrintName\obj\Debug\PrintName.exe
+D:\Telerik\Homework\IntroductionToProgramming\PrintName\obj\Debug\PrintName.pdb
+D:\Telerik\Homework\IntroductionToProgramming\PrintName\obj\Debug\PrintName.csprojResolveAssemblyReference.cache

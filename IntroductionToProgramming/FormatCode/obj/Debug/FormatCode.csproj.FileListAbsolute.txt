@@ -1,0 +1,5 @@
+D:\Telerik\Homework\IntroductionToProgramming\FormatCode\bin\Debug\FormatCode.exe.config
+D:\Telerik\Homework\IntroductionToProgramming\FormatCode\bin\Debug\FormatCode.exe
+D:\Telerik\Homework\IntroductionToProgramming\FormatCode\bin\Debug\FormatCode.pdb
+D:\Telerik\Homework\IntroductionToProgramming\FormatCode\obj\Debug\FormatCode.exe
+D:\Telerik\Homework\IntroductionToProgramming\FormatCode\obj\Debug\FormatCode.pdb
